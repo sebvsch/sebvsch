@@ -7,6 +7,7 @@
 *  ✉️ You can contact me at sebaschico_07@hotmail.com
 *  🧠 I am studying at [TECNOLÓGICO COMFENALCO](https://tecnologicocomfenalco.edu.co/)
 
+[![](https://visitcount.itsvg.in/api?id=sebvsch&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 # 💻Technologies
 
